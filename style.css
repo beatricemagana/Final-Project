@@ -196,6 +196,7 @@ section {
     .home .image img {
         height: 60vh;
         width: 35vh;
+        margin-right: 50px;
     }
 
     .home .content h3 {
