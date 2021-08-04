@@ -158,7 +158,7 @@ section {
 }
 
 .features .box-container .box img {
-    height: 15rem;
+    height: 25rem;
 }
 
 .features .box-container .box h3 {
@@ -172,6 +172,12 @@ section {
     color: #666;
     padding: 1rem 0;
 }
+
+
+
+
+
+
 
 
 /* media queries */
